@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barra e Progresso</title>
+</head>
+<body>
+    <h3>Status da Bateria</h3>
+    <progress value="5" max="100"></progress>
+    <p style="color: red;" >bateria está acabando</p>
+
+</body>
+</html>
